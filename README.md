@@ -47,8 +47,10 @@ Following some general advice/tips:
 - **Look and feel (UI/UX):** Do some basic UI stylings. But **don't** overdo it! You can also add any UI library you are comfortable with.
 - **State Management:** Apps need to manage state and react to state changes in order to provide an engaging user experience. If you have expirience in state management, don't hesitate to show us!
 - **Unit testing:** Create a few meaningful unit tests. [Jest](https://jestjs.io/) is preinstalled and ready to use.
+- **Code quality:** We have a strong emphasis on the quality of our codebase, and as a team, we demand that you uphold this standard by employing both clean code principles and C# best practices in your code. These practices are highly valued in our organization and are critical to building maintainable, efficient, and scalable software solutions.
 
 ## Tasks
+Before you start: Please beware that the purpose of this challenge is to get an insight into your thought process when solving a problem. Because of that, it's critical that you document the decisions you make during implementation. You can add a new paragraph below each numbered task in the tasks section inside this markup file in which you write down your thoughts and why you decided to implement it the way you did.
 
 1. Create a new lazy-loaded `dashboard` module which is accessible by the route `/dashboard`. For simplicity, we want that all other routes are being redirected to this module.
 2. In this module, create a service, which fetches all target assets from the end point `/targetasset`.
