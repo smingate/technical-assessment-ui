@@ -46,7 +46,7 @@ Following some general advice/tips:
 
 - **Look and feel (UI/UX):** Do some basic UI stylings. But **don't** overdo it! You can also add any UI library you are comfortable with.
 - **State Management:** Apps need to manage state and react to state changes in order to provide an engaging user experience. If you have expirience in state management, don't hesitate to show us!
-- **Unit testing:** Create a few meaningful unit tests. [Jest](https://jestjs.io/) is preinstalled and ready to use.
+- **Unit testing:** Create a few meaningful unit tests. [Jest](https://jestjs.io/) is preinstalled and ready to use. But feel free to use any other test framework.
 - **Code quality:** We have a strong emphasis on the quality of our codebase, and as a team, we demand that you uphold this standard by employing both clean code principles and C# best practices in your code. These practices are highly valued in our organization and are critical to building maintainable, efficient, and scalable software solutions.
 
 ## Tasks
